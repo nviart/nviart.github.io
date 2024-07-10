@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://curie.fr/personne/nicolas-viart'>Institut Curie, Paris, France</a>
 
 profile:
   align: right
