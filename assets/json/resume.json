@@ -6,21 +6,7 @@
     "email": "viart.nicolas@live.fr",
     "_phone": "",
     "url": "https://nviart.github.io/",
-    "summary": "",
-    "_location": {
-      "_address": "2712 Broadway St",
-      "_postalCode": "CA 94115",
-      "_city": "San Francisco",
-      "_countryCode": "US",
-      "_region": "California"
-    },
-    "__profiles": [
-      {
-        "_network": "Twitter",
-        "_username": "AlbertEinstein",
-        "_url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": ""},
   },
   "Education": [
     {
@@ -73,15 +59,7 @@
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  
   "certificates": [
     {
       "name": "Machine Learning",
@@ -166,7 +144,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
