@@ -1,6 +1,11 @@
 {% if site.email %}
   <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
 {% endif %}
+
+{% if site.curie_username %}
+  <a href="https://curie.fr/personne/{{ site.curie_username }}" title="Institut Curie"><i class="fa-brands fa-telegram"></i></a>
+{% endif %}
+
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
 {% endif %}
