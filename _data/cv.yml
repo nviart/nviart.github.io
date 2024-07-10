@@ -17,18 +17,34 @@
       year: 2025
       description:
         - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team
-        - title: Histopathological and multi-omic characterization of breast tumours of germline *ATM* deleterious variant carriers
-          contents:
-            - Development of a pipeline to pre-process methylation array data and characterize the methylation patterns of breast cancers developed by *ATM* variant carriers
-            - Multi-omic analysis of tumours developed by carriers of a germline *ATM* deleterious variant
-      #      - Identification of histological features specific of ATM-deficiency thanks to deep learning approaches
-    - title: Master 2 in bioinformatics
+        - title: Histopathological and multi-omic characterization of breast tumours of germline ATM deleterious variant carriers
+#          contents:
+#            - Development of a pipeline to pre-process methylation array data and characterize the methylation patterns of breast cancers developed by *ATM* variant carriers
+#            - Multi-omic analysis of tumours developed by carriers of a germline *ATM* deleterious variant
+#            - Identification of histological features specific of ATM-deficiency thanks to deep learning approaches
+    - title: MSc (2nd year) in bioinformatics
       institution: Paris-Saclay University
       location: Evry, France
       year: 2020
+#      description:
+#        - Description 1.
+#        - Description 2.
+    - title: MSc (Engineering degree in biotechnology)
+      institution: SupBiotech
+      location: Evry, France
+      year: 2017 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - International semester at Essex University (Essex, England)
+        - BSc in Chemistry-Biology at Paris-Est University (Créteil, France)
+    - title: 1st and 2nd year of BSc in cell biology and physiology
+      institution: Université des Sciences et Technologies
+      location: Lille, France
+      year: 2015 - 2017
+    - title: 1st year of medicine studies
+      institution: Paris-Sud XI University
+      location: Châtenay-Malabry, France
+      year: 2014 - 2015
+
 
 - title: Experience
   type: time_table
