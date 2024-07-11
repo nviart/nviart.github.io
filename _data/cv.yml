@@ -12,15 +12,15 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Inserm, U900; Institut Curie, PSL University
+      institution: Institut Curie (Inserm, U900; PSL University)
       location: Paris, France
-      year: 2020 - Now
+      year: 2020 - PRESENT
       description:
         - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team
-        - Histopathological and multi-omic characterization of breast tumours of germline ATM deleterious variant carriers
+        - Histopathological and multi-omic characterization of breast tumors of germline ATM deleterious variant carriers
 #          contents:
 #            - Development of a pipeline to pre-process methylation array data and characterize the methylation patterns of breast cancers developed by *ATM* variant carriers
-#            - Multi-omic analysis of tumours developed by carriers of a germline *ATM* deleterious variant
+#            - Multi-omic analysis of tumors developed by carriers of a germline *ATM* deleterious variant
 #            - Identification of histological features specific of ATM-deficiency thanks to deep learning approaches
     - title: MSc (2nd year) in bioinformatics
       institution: Paris-Saclay University
@@ -42,49 +42,49 @@
       year: 2015 - 2017
     - title: 1st year of medicine studies
       institution: Paris-Sud XI University
-      location: Châtenay-Malabry, France
+      location: Châtenay-Malabry
       year: 2014 - 2015
 
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Internship research in bioinformatics
+      institution: Institut Curie (Inserm, U900; PSL University)
+      year: Jan. 2021 - Jul. 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - title : Epigenetic and transcriptomic characterisation of breast tumors from ATM germline variant carriers
+          contents : 
+            - Development of a pipeline for the analysis of methylation data (Illumina Infinium EPIC & 450K arrays), standard pipeline available at Institut Curie
+            - Analysis of epigentic and transcriptomic data of breast tumors
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: Engineer internship R&D in bioinformatics
+      institution: Transgene, Strasbourg
+      year: Feb. 2020 - Jul. 2020
       description:
-        - Description 1.
-        - Description 2.
+        - title : Transcriptomic caracterisation of the immune response of tumors infected by a new oncolytic virus
+          contents :
+            - Implementation of a pipeline to process 3'RNASeq NGS data
+            - Validation of this method in the company
+            - caracterisation of the immune response of tumors infected with the new virus
+#    - title: Professor of Theoretical Physics
+#      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+#      year: 1911 - 1917
+#      description:
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+#    - title: Associate Professor of Theoretical Physics
+#      institution: University of Zurich, Zurich, Switzerland
+#      year: 1909 - 1911
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015 - PRESENT
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 #- title: Honors and Awards
 #  type: time_table
