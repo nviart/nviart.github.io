@@ -4,7 +4,7 @@
     - name: Full Name
       value: Nicolas Viart
     - name: Email
-      value: viart.nicolas@live.fr
+      value: <a href='viart.nicolas@live.fr'>viart.nicolas@live.fr</a> 
     - name: Url
       value: https://nviart.github.io/cv/
 #    - name: Date of Birth
