@@ -3,9 +3,9 @@
   contents:
     - name: Full Name
       value: Nicolas Viart
-    - email: Email
+    - name: Email
       value: viart.nicolas@live.fr
-    - Url: Url
+    - name: Url
       value: https://nviart.github.io/cv/
 #    - name: Date of Birth
 #      value: 14th March 1879
@@ -21,7 +21,7 @@
       year: 2020 - PRESENT
       description:
         - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team
-        - Histopathological and multi-omic characterization of breast tumors of germline ATM deleterious variant carriers
+        - Histopathological and multi-omic characterization of breast tumors developed by germline ATM deleterious variant carriers
 #          contents:
 #            - Development of a pipeline to pre-process methylation array data and characterize the methylation patterns of breast cancers developed by *ATM* variant carriers
 #            - Multi-omic analysis of tumors developed by carriers of a germline *ATM* deleterious variant
