@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Nicolas Viart
+    - email: Email
+      value: viart.nicolas@live.fr
+    - Url: Url
+      value: https://nviart.github.io/cv/
 #    - name: Date of Birth
 #      value: 14th March 1879
     - name: Languages
