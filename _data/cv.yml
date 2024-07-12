@@ -18,7 +18,7 @@
     - title: PhD
       institution: Institut Curie (Inserm, U900; PSL University)
       location: Paris, France
-      year: 2020 - PRESENT
+      year: 2021 - PRESENT
       description:
         - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team
         - Histopathological and multi-omic characterization of breast tumors developed by germline ATM deleterious variant carriers
@@ -53,14 +53,19 @@
 - title: Experience
   type: time_table
   contents:
+    - title: PhD in bioinformatics
+      institution: Institut Curie (Inserm, U900; PSL University)
+      year: Oct. 2021 - Jul. 2025
+      description:
+        - title: Histopathological and multi-omic characterization of breast tumors developed by germline ATM deleterious variant carriers
     - title: Internship research in bioinformatics
       institution: Institut Curie (Inserm, U900; PSL University)
       year: Jan. 2021 - Jul. 2021
       description:
-        - title : Epigenetic and transcriptomic characterisation of breast tumors from ATM germline variant carriers
+        - title: Epigenetic and transcriptomic characterisation of breast tumors from ATM germline variant carriers
           contents : 
             - Development of a pipeline for the analysis of methylation data (Illumina Infinium EPIC & 450K arrays), standard pipeline available at Institut Curie
-            - Analysis of epigentic and transcriptomic data of breast tumors
+            - Analysis of epigenetic and transcriptomic data of breast tumors
 #        - title: Description 3.
 #          contents:
 #            - Sub-description 1.
