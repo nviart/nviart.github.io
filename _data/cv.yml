@@ -15,90 +15,75 @@
       value: French, English and Spanish
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: PhD in bioinformatics
+      institution: Institut Curie (Inserm, U900; PSL University)
+      year: Oct. 2021 - Jul. 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Histopathological and multi-omic characterization of breast tumors developed by germline ATM deleterious variant carriers
+          type: time_table
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team, part of the Bioinfo-HUB of Institut Curie
+            - Characterisation of methylation patterns of breast cancers developed by ATM variant carriers
+            - Identification of histological features specific of ATM deficient tumors thanks to deep learning approaches
+
+    - title: Internship research in bioinformatics
+      institution: Institut Curie (Inserm, U900; PSL University)
+      year: Jan. 2021 - Jul. 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: Epigenetic and transcriptomic characterisation of breast tumors from ATM germline variant carriers
+          contents: 
+            - Development of a pipeline for the analysis of methylation data (Illumina Infinium EPIC & 450K arrays), standard pipeline available at Institut Curie
+            - Analysis of epigenetic and transcriptomic data of breast tumors
+    - title: Engineer internship R&D in bioinformatics
+      institution: Transgene, Strasbourg
+      year: Feb. 2020 - Jul. 2020
       description:
+        - title : Transcriptomic caracterisation of the immune response of tumors infected by a new oncolytic virus
+          contents :
+            - Implementation of a pipeline to process 3'RNASeq NGS data
+            - Validation of this method in the company
+            - caracterisation of the immune response of tumors infected with the new virus
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Competences
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - Data analysis, data vizualisation and data interpretation
+    - Advance programmation in R (Shiny, Bioconductor packages) and python
+    - Mastering of the UNIX environment
+    - Use of public databases (KEGG, GeneOntology, UniProt,...)
+    - Use of Cytoscape for network vizualisation
 
-- title: Other Interests
-  type: list
+
+- title: Education
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: PhD in bioinformatics
+      institution: Institut Curie (Inserm, U900; PSL University)
+      location: Paris, France
+      year: 2021 - PRESENT
+    - title: MSc in bioinformatics (2nd year) 
+      institution: Paris-Saclay University
+      location: Evry, France
+      year: 2020
+    - title: MSc (Engineering degree in biotechnology)
+      institution: SupBiotech
+      location: Villejuif, France
+      year: 2017 - 2020
+      description:
+        - International semester at Essex University (Essex, England)
+        - BSc in Chemistry-Biology at Paris-Est University (Créteil, France)
+    - title: 1st and 2nd year of BSc in cell biology and physiology
+      institution: Université des Sciences et Technologies
+      location: Lille, France
+      year: 2015 - 2017
+    - title: 1st year of medicine studies
+      institution: Paris-Sud XI University
+      location: Châtenay-Malabry
+      year: 2014 - 2015
+
