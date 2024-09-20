@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: [Institut Curie](https://curie.fr/personne/nicolas-viart)
+
 profile:
   align: right
   image: prof_pic.jpg
