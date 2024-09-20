@@ -2,8 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://curie.fr/personne/nicolas-viart'> Institut Curie, Paris, France</a>
-
+subtitle: [Institut Curie](https://curie.fr/personne/nicolas-viart)
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,11 +16,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Welcome! Dive into my personal page to find out more about me!
+Welcome! 
 
-Please note that this website is currently being updated, so not every information may be up to date.
+I am currently a PhD candidate under the supervision of Fabienne Lesueur in the Genetic Epidemiology of Cancer team (U900) at Institut Curie (Paris). My work focuses on the characterization of breast tumours developed by ATM germline variant carriers using bioinformatic analyses of multi-omics data (genomic, transcriptomic and methylome) and histological whole slides images with deep learning methods.
 
-I am currently a PhD candidate under the supervision of Fabienne Lesueur in the Genetic Epidemiology of Cancer team at Institut Curie (Paris). My work focuses on the characterization of breast tumours developed by ATM germline variant carriers thanks to the bioinformatic analysis of multi-omics data (genomic, transcriptomic and methylome) and of tumor slides with deep learning methods.
+Please feel free to explore my website to learn more about me and my research (this website is currently being updated, so not every information may be up to date).
+
 
 <!---
 #Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
