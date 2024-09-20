@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: [Institut Curie](https://curie.fr/personne/nicolas-viart)
+subtitle: <a href='https://curie.fr/personne/nicolas-viart'> Institut Curie, Paris, France</a>
 
 profile:
   align: right
