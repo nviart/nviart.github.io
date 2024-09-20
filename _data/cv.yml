@@ -2,11 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Nicolas Viart
+    - Label: Job
+      value: PhD candidate in bioinformatics
+    - name: Email
+      value: <a href="mailto:viart.nicolas@live.fr" target="_blank">viart.nicolas@live.fr</a>
+    - name: Url
+      value: <a href="https://nviart.github.io/cv/" target="_blank">https://nviart.github.io/cv/</a>
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: French, English and Spanish
+
 
 - title: Education
   type: time_table
