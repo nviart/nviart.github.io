@@ -51,7 +51,6 @@
 
 
 - title: Competences
-  type: nested_list
   type: list
   contents:
     - Data analysis, data vizualisation and data interpretation
