@@ -20,13 +20,13 @@
   type: time_table
   contents:
     - title: PhD in bioinformatics
-      institution: Institut Curie (Inserm, U900; PSL University)
+      institution: Institut Curie (Inserm, U900; PSL University), part of the Bioinfo-HUB of Institut Curie
       year: Oct. 2021 - Jul. 2025
       description:
         - title: Histopathological and multi-omic characterization of breast tumors developed by germline ATM deleterious variant carriers
           type: time_table
           contents:
-            - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team, part of the Bioinfo-HUB of Institut Curie
+            - Under the supervision of Fabienne Lesueur, in the "Genetic epidemiology of cancers" team
             - Characterisation of methylation patterns of breast cancers developed by ATM variant carriers
             - Identification of histological features specific of ATM deficient tumors thanks to deep learning approaches
 
