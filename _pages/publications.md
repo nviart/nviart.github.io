@@ -26,13 +26,13 @@ Viart, N. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours �
 #37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène ATM. Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
 
 **- 28th June 2024 (ATM workshop) and 29th June 2024 (ENIGMA)**\
-Presentation of the AI analyses (“A deep learning approach to identify histological features of breast tumors developed by ATM variant carriers”)
+Presentation of the AI analyses: Viart, N. (2024) ‘A deep learning approach to identify histological features of breast tumors developed by ATM variant carriers’. ENIGMA meeting, Riga, Latvia.
 
 
 ### Poster presentations:
 
 **- Journées Ouvertes en Biologie, Informatique et Mathématiques 2022 (JOBIM2022) – Rennes:**\
-Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Poster and demonstrations. JOBIM2022, Rennes, p.173. Available at: https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf (Accessed: 14 September 2022).
+Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Poster and demonstrations. JOBIM2022, Rennes, p.173. Abstract available [here](#https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf) (Accessed: 14 September 2022).
 
 **- HBOC-VUS workshop – Leiden (The Netherlands):**\
 Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Conference book. 2nd HBOC-VUS workshop, Leiden, The Netherlands, p. 104
