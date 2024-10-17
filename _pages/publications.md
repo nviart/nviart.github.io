@@ -32,7 +32,7 @@ Presentation of the AI analyses: Viart, N. (2024) ‘A deep learning approach to
 ### Poster presentations:
 
 **- Journées Ouvertes en Biologie, Informatique et Mathématiques 2022 (JOBIM2022) – Rennes:**\
-Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Poster and demonstrations. JOBIM2022, Rennes, p.173. Abstract available [here](#https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf) (Accessed: 14 September 2022).
+Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Poster and demonstrations. JOBIM2022, Rennes, p.173. Abstract available [here](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf) (Accessed: 14 September 2022).
 
 **- HBOC-VUS workshop – Leiden (The Netherlands):**\
 Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Conference book. 2nd HBOC-VUS workshop, Leiden, The Netherlands, p. 104
