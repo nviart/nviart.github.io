@@ -56,6 +56,7 @@
     - Data analysis, data vizualisation and data interpretation
     - Advance programmation in R (Shiny, Bioconductor packages) and python
     - Mastering of the UNIX environment
+    - Use of versioning systems (git) and pipeline frameworks (Nextflow and SnakeMake)
     - Use of public databases (KEGG, GeneOntology, UniProt,...)
     - Use of Cytoscape for network vizualisation
 
