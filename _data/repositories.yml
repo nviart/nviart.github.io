@@ -5,6 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
+  - nviart/Viart_ATM_breast_methylation
   #- jekyll/jekyll
   #- twbs/bootstrap
   #- jquery/jquery
