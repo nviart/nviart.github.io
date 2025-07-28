@@ -7,9 +7,8 @@ nav: true
 nav_order: 2
 ---
 
-### Publications
+### Publication
 * Viart N. M., Renault, A.-L., Eon-Marchais, S., Jiao, Y., Fuhrmann, L., El Houdigui, S. M., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Raynal, V., Stoppa-Lyonnet, D., Vincent-Salomon, A., Andrieu, N., Southey, M. C., & Lesueur, F. (2025). Breast tumors from ATM pathogenic variant carriers display a specific genome-wide DNA methylation profile. Breast Cancer Research, 27(1), 36. https://doi.org/10.1186/s13058-025-01988-w
-* Viart N. M., et al. Deep learning analysis of whole slide images predicts histological features of breast tumors developed by ATM variant carriers. (in preparation)
 
 <br>
   
