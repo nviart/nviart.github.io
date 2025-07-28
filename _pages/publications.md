@@ -7,39 +7,35 @@ nav: true
 nav_order: 2
 ---
 
-### There is currently no publication to display but here are some conferences in which I presented my work  
+### Publications
+* Viart N. M., Renault, A.-L., Eon-Marchais, S., Jiao, Y., Fuhrmann, L., El Houdigui, S. M., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Raynal, V., Stoppa-Lyonnet, D., Vincent-Salomon, A., Andrieu, N., Southey, M. C., & Lesueur, F. (2025). Breast tumors from ATM pathogenic variant carriers display a specific genome-wide DNA methylation profile. Breast Cancer Research, 27(1), 36. https://doi.org/10.1186/s13058-025-01988-w
+* Viart N. M., et al. Deep learning analysis of whole slide images predicts histological features of breast tumors developed by ATM variant carriers. (in preparation)
+
 <br>
   
 ### Oral communications:
 
-#### 2022
-**27th June 2022: Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA) meeting:**\
-Viart, N. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’. ENIGMA meeting, Leiden, The Netherlands, 27 June.
+* **10th January 2024: Assises de génétiques humaines - Paris**
+#37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène *ATM*. Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
+Abstract available [here](https://api.mycongressonline.net/api-Congress-agenda.html?record=1c8d2dd3-5102-48f7-73fb-63b7d66f4eb1&key=ab10c6a3e4ba4db1629057c3d8dca3e66653b897&date=&account_id=&bookmark_filter=&print_me=0&search=viart&stype=&speaker_id=&search_me=) 
 
-#### 2023
+* **28th June 2024 (ATM workshop) and 29th June 2024 (ENIGMA)**\
+Presentation of the AI analyses: Viart, N. M. (2024) ‘A deep learning approach to identify histological features of breast tumors developed by *ATM* variant carriers’. ENIGMA meeting, Riga, Latvia.
 
-**19th June 2023: Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA) meeting:**\
-Viart, N. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours – an update’. ENIGMA meeting, Vienna, Austria, 19th June.
+* **19th June 2023: Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA) meeting:**\
+Viart, N. M. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours – an update’. ENIGMA meeting, Vienna, Austria, 19th June.
 
-#### 2024
-**- 10th January 2024: Assises de génétiques humaines - Paris**\
-#37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène ATM. Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
-
-**- 28th June 2024 (ATM workshop) and 29th June 2024 (ENIGMA)**\
-Presentation of the AI analyses: Viart, N. (2024) ‘A deep learning approach to identify histological features of breast tumors developed by ATM variant carriers’. ENIGMA meeting, Riga, Latvia.
+* **27th June 2022: Evidence-based Network for the Interpretation of Germline Mutant Alleles (ENIGMA) meeting:**\
+Viart, N. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’. ENIGMA meeting, Leiden, The Netherlands, 27th June.
 
 
 ### Poster presentations:
 
-**- Journées Ouvertes en Biologie, Informatique et Mathématiques 2022 (JOBIM2022) – Rennes:**\
-Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Poster and demonstrations. JOBIM2022, Rennes, p.173. Abstract available [here](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf) (Accessed: 14 September 2022).
-
-**- HBOC-VUS workshop – Leiden (The Netherlands):**\
-Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’, in Conference book. 2nd HBOC-VUS workshop, Leiden, The Netherlands, p. 104
-
-**- Day of PhD students of doctoral school – Villejuif & U900 retreat – St-Malo:**\
-Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA 
-methylation profiling of ATM-deficient breast tumours
+* Viart, N., Renault, A.-L., Houdigui, S.M.E., Eon-Marchais, S., Fuhrmann, L., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Salomon, A.V., Stoppa-Lyonnet, D., Southey, M., Andrieu, N., Lesueur, F. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’
+  * Day of PhD students of the Doctoral school CBMS, January 2023
+  * U1331 retreat, St-Malo, France, November 2022
+  * HBOC-VUS workshop, Leiden, The Netherlands, October 2022
+  * Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) 2022, Rennes, France, July 2022, Abstract available [here](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf) (Accessed: 14 September 2022).
 
 
 <!-- _pages/publications.md -->
