@@ -10,12 +10,12 @@ nav_order: 2
 ### Publication
 * Viart N. M., Renault, A.-L., Eon-Marchais, S., Jiao, Y., Fuhrmann, L., El Houdigui, S. M., Le Gal, D., Cavaciuti, E., Dondon, M.-G., Beauvallet, J., Raynal, V., Stoppa-Lyonnet, D., Vincent-Salomon, A., Andrieu, N., Southey, M. C., & Lesueur, F. (2025). Breast tumors from ATM pathogenic variant carriers display a specific genome-wide DNA methylation profile. Breast Cancer Research, 27(1), 36. https://doi.org/10.1186/s13058-025-01988-w
 
-<br>
   
 ### Oral communications:
 
-* **10th January 2024: Assises de génétiques humaines - Paris**
-#37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène *ATM*. Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
+* **10th January 2024: Assises de génétiques humaines - Paris**\
+#37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène *ATM*.
+Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
 Abstract available [here](https://api.mycongressonline.net/api-Congress-agenda.html?record=1c8d2dd3-5102-48f7-73fb-63b7d66f4eb1&key=ab10c6a3e4ba4db1629057c3d8dca3e66653b897&date=&account_id=&bookmark_filter=&print_me=0&search=viart&stype=&speaker_id=&search_me=) 
 
 * **28th June 2024 (ATM workshop) and 29th June 2024 (ENIGMA)**\
