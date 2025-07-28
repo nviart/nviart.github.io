@@ -15,7 +15,7 @@ nav_order: 2
 
 * **10th January 2024: Assises de génétiques humaines - Paris**\
 #37811 - SS041 Profil de méthylation de l’ADN des tumeurs du sein des porteurs d’un variant du gène *ATM*.
-Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR
+Nicolas VIART (Paris), Anne-Laure RENAULT, Sophia MURAT EL HOUDIGUI, Séverine EON-MARCHAIS, Laetitia FUHRMANN, Dorothée LE GAL, Eve CAVACIUTI, Juana BEAUVALLET, Anne-Vincent SALOMON, Stoppa-Lyonnet DOMINIQUE, Melis s a SOUTHEY, Nadine ANDRIEU, Fabienne LESUEUR\
 Abstract available [here](https://api.mycongressonline.net/api-Congress-agenda.html?record=1c8d2dd3-5102-48f7-73fb-63b7d66f4eb1&key=ab10c6a3e4ba4db1629057c3d8dca3e66653b897&date=&account_id=&bookmark_filter=&print_me=0&search=viart&stype=&speaker_id=&search_me=) 
 
 * **28th June 2024 (ATM workshop) and 29th June 2024 (ENIGMA)**\
