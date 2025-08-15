@@ -34,7 +34,7 @@ Viart, N. (2022) ‘DNA methylation profiling of ATM-deficient breast tumours’
   * Day of PhD students of the Doctoral school CBMS, January 2023
   * U1331 retreat, St-Malo, France, November 2022
   * HBOC-VUS workshop, Leiden, The Netherlands, October 2022
-  * Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) 2022, Rennes, France, July 2022, Abstract available [here](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf#page190) (Accessed: 14 September 2022).
+  * Journées Ouvertes en Biologie, Informatique et Mathématiques (JOBIM) 2022, Rennes, France, July 2022, Abstract available [here](https://jobim2022.sciencesconf.org/data/pages/JOBIM2022_proceedings_posters_demos.pdf#section*.173) (Accessed: 14 September 2022).
 
 
 <!-- _pages/publications.md -->
